@@ -1,0 +1,10 @@
+{
+  "pages": {
+    "/": {
+      "viewPath": "HubView"
+    }
+  },
+  "sharedDocks": {
+    "cornerPriority": "top-bottom"
+  }
+}
