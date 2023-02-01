@@ -1,5 +1,9 @@
 {
-  "pages": {},
+  "pages": {
+    "/": {
+      "viewPath": "GitView"
+    }
+  },
   "sharedDocks": {
     "cornerPriority": "top-bottom"
   }
